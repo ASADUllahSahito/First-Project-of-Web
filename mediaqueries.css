@@ -1,0 +1,18 @@
+@media screen and (max-width:991px){
+     .nav-icons{
+        display: block;
+        width: 100%;
+     }
+
+     ul{
+      background-color: green;
+     }
+
+   
+
+}
+
+
+
+
+
